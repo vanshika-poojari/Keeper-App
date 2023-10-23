@@ -1,0 +1,183 @@
+
+/* Keeper Project  */
+
+*{
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box; 
+}
+body{
+    background: #eee;
+    padding: 0 16px;
+}
+ 
+
+
+.container{ 
+    background: white;
+    border-radius: 7px; 
+    box-shadow: 0 2px 5px #ccc; 
+    padding: 10px; 
+    width: 240px; 
+    margin: 16px;
+    float: left; 
+}
+.title{ 
+    font-size: 1.1em;
+    margin-bottom: 6px;
+}
+.content{ 
+    font-size: 1.1em;
+    margin-bottom: 10px; 
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+header{ 
+    background-color: #f5ba13;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0,0, 0, 0.3); 
+}
+
+header h1 { 
+    color: white; 
+    font-weight: 200;
+}
+.keeper{ 
+   left: -250px;
+}
+
+footer{ 
+    position: absolute; 
+    text-align: center; 
+    left: 600px;
+    bottom: 0; 
+    width: 200px; 
+    height: 2.5rem; 
+}
+
+footer p {
+    color: #ccc; 
+}
+
+
+
+
+
+
+/* Emojipedia project 
+body{ 
+    font-family :sans-serif; 
+    margin: 0 auto; 
+    padding: 25px; 
+    max-width: 400px; 
+    min-width: 400px; 
+    background-color: #dfe6e9;
+    text-align: center; 
+}
+
+.heading {
+    text-align: center; 
+    font-size: 1.5em; 
+    color: #14c2c8; 
+    margin: 20px 0 30px; 
+    line-height: 1em;
+}
+
+.emoji{ 
+  font-size: 3em;
+}
+
+.boxes{ 
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.definition{ 
+    font-size: 0.9em;
+    color: grey;
+    line-height: 1.3em;
+}
+ */
+
+
+/* My contacts project 
+
+body{ 
+    font-family :sans-serif; 
+    margin: 0 auto; 
+    padding: 25px; 
+    max-width: 400px; 
+    min-width: 400px; 
+    background-color: #dfe6e9;
+    text-align: center; 
+}
+
+.heading {
+    text-align: center; 
+    font-size: 1.5em; 
+    color: #2d3436; 
+    margin: 20px 0 30px; 
+}
+
+.card{ 
+    border-radius: 25px;
+    position: relative; 
+    padding: 25px 15px; 
+    background-color: #81ecec;
+    margin: 50px 0; 
+    height: 200px; 
+}
+.top{ 
+    border-radius: 25px 25px 0 0; 
+    height: 100px; 
+    width: 100%; 
+    background-color: #00cec9;
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    display: flex;
+}
+
+.name{ 
+    font-size: 2em; 
+    color: #2d3436; 
+    display: flex; 
+    flex: 1; 
+    margin: 10% 20px 0; 
+}
+
+.card img{ 
+    margin: 30px 20px 0 0; 
+}
+
+.circle-img{ 
+    border-radius: 5em; 
+    border: 7px solid #fff; 
+    width: 120px; 
+    height: 120px; 
+}
+
+.bottom{ 
+    margin-top: 140px; 
+    margin-left: -80px;
+    line-height: 0.5em;
+
+}
+
+.info{ 
+ position: relative; 
+ left: -30px;
+ bottom: 10px;
+}
+.email{ 
+    position: relative; 
+    left: -80px;
+} */
+
+
+
+
+
+
